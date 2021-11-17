@@ -2,9 +2,9 @@
   "name": "is-image-data",
   "version": "0.0.0",
   "description": "Functions for Identifying Image Data in Arbitrary Numerical Arrays",
-  "main": "index.js",
+  "main": "is-image-data.js",
   "files": [
-    "index.js"
+    "is-image-data.js"
   ],
   "scripts": {
     "format": "npx prettier --trailing-comma=none --write *.js",
