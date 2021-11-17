@@ -1,6 +1,6 @@
 {
   "name": "is-image-data",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Functions for Identifying Image Data in Arbitrary Numerical Arrays",
   "main": "is-image-data.js",
   "files": [
