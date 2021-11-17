@@ -1,0 +1,32 @@
+{
+  "name": "is-image-data",
+  "version": "0.0.0",
+  "description": "Functions for Identifying Image Data in Arbitrary Numerical Arrays",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --trailing-comma=none --write *.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/is-image-data.git"
+  },
+  "keywords": [
+    "arrays",
+    "data",
+    "image",
+    "numbers",
+    "jpg",
+    "png",
+    "tif"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/is-image-data/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/is-image-data#readme",
+  "devDependencies": {
+    "flug": "^2.1.2"
+  }
+}
